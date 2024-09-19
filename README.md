@@ -3,6 +3,7 @@ Rearrange
 
 This module is used for rearranging names.
 Turns "LastName, FirstName" into "FirstName LastName"
+Here is considered that, the first name to the left side is the LastName and the one on the right the FirstName.
 
 ### Example ###
 
